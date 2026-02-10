@@ -28,20 +28,19 @@ git clone https://github.com/p3k0h4ck3r/breacherinfo.git
 cd breacherinfo
 chmod +x breacherinfo.sh
 
-
+```
 ---
 
 ## 5️⃣ Usage
 
-```md
+```
 ## 🚀 Usage
 
 Run the tool using:
 
 ```bash
 ./breacherinfo.sh
-
-
+```
 ---
 
 ## 6️⃣ How It Works (VERY IMPORTANT)
