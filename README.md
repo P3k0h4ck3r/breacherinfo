@@ -38,7 +38,7 @@ chmod +x breacherinfo.sh
 
 Run the tool using:
 
-```bash
+```
 ./breacherinfo.sh
 ```
 ---
