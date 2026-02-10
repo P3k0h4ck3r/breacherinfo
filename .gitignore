@@ -1,0 +1,25 @@
+# Environment / Secrets
+.env
+*.key
+*.secret
+
+# Tool outputs
+reports/
+output/
+results/
+*.log
+*.txt
+
+# Temporary files
+/tmp/
+*.tmp
+*.cache
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+.vscode/
+.idea/
