@@ -38,7 +38,6 @@ chmod +x breacherinfo.sh
 
 Run the tool using:
 
-```
 ./breacherinfo.sh
 ```
 ---
@@ -47,7 +46,7 @@ Run the tool using:
 
 Yahan tu **legal clarity** deta hai.
 
-```md
+```
 ## 🧠 How It Works
 
 - Email breach data is checked using the Have I Been Pwned public API.
@@ -55,3 +54,4 @@ Yahan tu **legal clarity** deta hai.
 - Phone number checks are OSINT-based and rely on public references such as indexed repositories and paste mentions.
 
 This tool does not access private, paid, or illegal breach databases.
+```
