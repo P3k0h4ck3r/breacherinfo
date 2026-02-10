@@ -44,8 +44,6 @@ Run the tool using:
 
 ## 6️⃣ How It Works (VERY IMPORTANT)
 
-Yahan tu **legal clarity** deta hai.
-
 ```
 ## 🧠 How It Works
 
@@ -55,3 +53,13 @@ Yahan tu **legal clarity** deta hai.
 
 This tool does not access private, paid, or illegal breach databases.
 ```
+## 📄 Example Output
+
+```
+[+] Checking email breaches for: test@email.com
+
+[!] Breaches Found:
+- Adobe (Emails, Password Hashes)
+- Canva (Emails, Usernames)
+```
+
