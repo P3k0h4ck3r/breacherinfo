@@ -26,7 +26,8 @@ BreacherInfo is a Bash-based OSINT tool that checks whether an email address, ph
 ```bash
 git clone https://github.com/p3k0h4ck3r/breacherinfo.git
 cd breacherinfo
-chmod +x breacherinfo.sh
+chmod +x install.sh breacherinfo.sh
+bash install.sh
 
 ```
 ---
